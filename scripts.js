@@ -23,75 +23,186 @@
  *
  */
 
-const FRESH_PRINCE_URL =
-  "https://upload.wikimedia.org/wikipedia/en/3/33/Fresh_Prince_S1_DVD.jpg";
-const CURB_POSTER_URL =
-  "https://m.media-amazon.com/images/M/MV5BZDY1ZGM4OGItMWMyNS00MDAyLWE2Y2MtZTFhMTU0MGI5ZDFlXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg";
-const EAST_LOS_HIGH_POSTER_URL =
-  "https://static.wikia.nocookie.net/hulu/images/6/64/East_Los_High.jpg";
+let movies = [];
+let currentMovies = [];
 
-// This is an array of strings (TV show titles)
-let titles = [
-  "Fresh Prince of Bel Air",
-  "Curb Your Enthusiasm",
-  "East Los High",
-];
-// Your final submission should have much more data than this, and
-// you should use more than just an array of strings to store it all.
+fetch('movies_v2.json')
+  .then(res => res.json())
+  .then(data => {
+    movies = data;
+    currentMovies = [...movies];
+    renderMovies(currentMovies);
+    populateGenreFilter();
+    document.getElementById("searchInput").addEventListener("input", searchMovies);
+  });
+// let currentMovies = [...movies];
 
-// This function adds cards the page to display the data in the array
-function showCards() {
-  const cardContainer = document.getElementById("card-container");
-  cardContainer.innerHTML = "";
-  const templateCard = document.querySelector(".card");
+// document.addEventListener("DOMContentLoaded", () => {
+//   renderMovies(currentMovies);
+//   populateGenreFilter();
+//   document.getElementById("searchInput").addEventListener("input", searchMovies);
+// });
 
-  for (let i = 0; i < titles.length; i++) {
-    let title = titles[i];
+function renderMovies(movieList) {
+  const container = document.getElementById("card-container");
+  const template = document.getElementById("card-template");
+  container.innerHTML = "";
 
-    // This part of the code doesn't scale very well! After you add your
-    // own data, you'll need to do something totally different here.
-    let imageURL = "";
-    if (i == 0) {
-      imageURL = FRESH_PRINCE_URL;
-    } else if (i == 1) {
-      imageURL = CURB_POSTER_URL;
-    } else if (i == 2) {
-      imageURL = EAST_LOS_HIGH_POSTER_URL;
+  movieList.forEach((movie) => {
+    const card = template.content.cloneNode(true);
+    card.querySelector("h2").textContent = movie.name;
+    card.querySelector("img").src = movie.image_url;
+    card.querySelector("img").alt = `${movie.name} Poster`;
+    card.querySelector(".movie-year").textContent = movie.year;
+    card.querySelector(".movie-genre").textContent = Array.isArray(movie.genre) ? movie.genre.join(", ") : movie.genre;
+    card.querySelector(".movie-rating").textContent = movie.rating;
+
+    // 如果你想加导演显示（你可以添加一个 <li><strong>Director:</strong> <span class="movie-director"></span></li> 到 HTML 中）
+    card.querySelector(".movie-director").textContent = Array.isArray(movie.directors) ? movie.directors.join(", ") : movie.directors;
+
+    const commentList = card.querySelector(".comment-list");
+    if (!movie.comments) movie.comments = [];
+    movie.comments.forEach(comment => {
+      const li = document.createElement("li");
+      li.textContent = comment;
+      commentList.appendChild(li);
+    });
+
+    const textarea = card.querySelector(".comment-input");
+    const commentBtn = card.querySelector(".comment-btn");
+    commentBtn.addEventListener("click", () => {
+      if (textarea.value.trim()) {
+        movie.comments.push(textarea.value.trim());
+        renderMovies(movieList);  // 重新渲染带评论
+      }
+    });
+
+    container.appendChild(card);
+  });
+}
+
+// function renderMovies(movieList) {
+//   const container = document.getElementById("card-container");
+//   const template = document.getElementById("card-template");
+//   container.innerHTML = "";
+
+//   movieList.forEach((movie) => {
+//     const card = template.content.cloneNode(true);
+//     card.querySelector("h2").textContent = movie.title;
+//     card.querySelector("img").src = movie.image;
+//     card.querySelector("img").alt = `${movie.title} Poster`;
+//     card.querySelector(".movie-year").textContent = movie.year;
+//     card.querySelector(".movie-genre").textContent = movie.genre;
+//     card.querySelector(".movie-rating").textContent = movie.rating;
+
+//     const commentList = card.querySelector(".comment-list");
+//     movie.comments.forEach(comment => {
+//       const li = document.createElement("li");
+//       li.textContent = comment;
+//       commentList.appendChild(li);
+//     });
+
+//     const textarea = card.querySelector(".comment-input");
+//     const commentBtn = card.querySelector(".comment-btn");
+//     commentBtn.addEventListener("click", () => {
+//       if (textarea.value.trim()) {
+//         movie.comments.push(textarea.value.trim());
+//         renderMovies(currentMovies);
+//       }
+//     });
+
+//     container.appendChild(card);
+//   });
+// }
+
+// function populateGenreFilter() {
+//   const genres = new Set(["all", ...movies.map(movie => movie.genre)]);
+//   const filter = document.getElementById("genreFilter");
+//   filter.innerHTML = "";
+//   genres.forEach(genre => {
+//     const option = document.createElement("option");
+//     option.value = genre;
+//     option.textContent = genre;
+//     filter.appendChild(option);
+//   });
+// }
+
+function populateGenreFilter() {
+  const genreSet = new Set();
+  movies.forEach(movie => {
+    if (Array.isArray(movie.genre)) {
+      movie.genre.forEach(g => genreSet.add(g));
+    } else {
+      genreSet.add(movie.genre);
     }
+  });
 
-    const nextCard = templateCard.cloneNode(true); // Copy the template card
-    editCardContent(nextCard, title, imageURL); // Edit title and image
-    cardContainer.appendChild(nextCard); // Add new card to the container
+  const filter = document.getElementById("genreFilter");
+  filter.innerHTML = "";
+
+  const allOption = document.createElement("option");
+  allOption.value = "all";
+  allOption.textContent = "All Genres";
+  filter.appendChild(allOption);
+
+  Array.from(genreSet).sort().forEach(genre => {
+    const option = document.createElement("option");
+    option.value = genre;
+    option.textContent = genre;
+    filter.appendChild(option);
+  });
+}
+
+
+// function filterMovies() {
+//   const genre = document.getElementById("genreFilter").value;
+//   currentMovies = genre === "all" ? [...movies] : movies.filter(m => m.genre === genre);x
+//   renderMovies(currentMovies);
+// }
+
+function filterMovies() {
+  const genre = document.getElementById("genreFilter").value;
+  currentMovies = genre === "all"
+    ? [...movies]
+    : movies.filter(m => Array.isArray(m.genre) && m.genre.includes(genre));
+  renderMovies(currentMovies);
+}
+function searchMovies() {
+  const term = document.getElementById("searchInput").value.toLowerCase();
+  currentMovies = movies.filter(m => m.name.toLowerCase().includes(term));
+  renderMovies(currentMovies);
+}
+
+function sortByRating() {
+  currentMovies.sort((a, b) => b.rating - a.rating);
+  renderMovies(currentMovies);
+}
+
+function addMovie() {
+  const name = document.getElementById("newTitle").value;
+  const year = parseInt(document.getElementById("newYear").value);
+  const genre = document.getElementById("newGenre").value;
+  const rating = parseFloat(document.getElementById("newRating").value);
+  const image_url = document.getElementById("newImage").value || "https://via.placeholder.com/300x450.png?text=No+Image";
+
+  if (!title || !year || !genre || !rating) {
+    alert("Please fill in all fields.");
+    return;
   }
-}
 
-function editCardContent(card, newTitle, newImageURL) {
-  card.style.display = "block";
-
-  const cardHeader = card.querySelector("h2");
-  cardHeader.textContent = newTitle;
-
-  const cardImage = card.querySelector("img");
-  cardImage.src = newImageURL;
-  cardImage.alt = newTitle + " Poster";
-
-  // You can use console.log to help you debug!
-  // View the output by right clicking on your website,
-  // select "Inspect", then click on the "Console" tab
-  console.log("new card:", newTitle, "- html: ", card);
-}
-
-// This calls the addCards() function when the page is first loaded
-document.addEventListener("DOMContentLoaded", showCards);
-
-function quoteAlert() {
-  console.log("Button Clicked!");
-  alert(
-    "I guess I can kiss heaven goodbye, because it got to be a sin to look this good!"
-  );
+  const newMovie = { title, year, genre, rating, image, comments: [] };
+  movies.push(newMovie);
+  currentMovies = [...movies];
+  renderMovies(currentMovies);
+  populateGenreFilter();
 }
 
 function removeLastCard() {
-  titles.pop(); // Remove last item in titles array
-  showCards(); // Call showCards again to refresh
+  movies.pop();
+  currentMovies = [...movies];
+  renderMovies(currentMovies);
+}
+
+function quoteAlert() {
+  alert("Here's looking at you, kid.");
 }

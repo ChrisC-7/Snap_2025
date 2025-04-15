@@ -1,31 +1,61 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>LA TV Shows | Home</title>
-    <meta name="description" content="A Catalog of Shows Set in Los Angeles" />
+    <title>Imdb Top 250 Movies | Home</title>
+    <meta name="description" content="A Catalog of Imdb Top 250 Films" />
     <link rel="stylesheet" href="style.css" />
-    <script type="text/javascript" src="scripts.js"></script>
+    <script defer src="scripts.js"></script>
   </head>
 
   <body>
     <header class="main-header">
-      <h1 class="title">LA TV Shows</h1>
+      <h1 class="title">Imdb Top 250 Movies</h1>
     </header>
+
+    <section class="controls">
+      <input id="searchInput" type="text" placeholder="Search by title...">
+      <select id="genreFilter" onchange="filterMovies()">
+        <option value="all">All Genres</option>
+      </select>
+      <button onclick="sortByRating()">Sort by Rating</button>
+    </section>
+
     <div id="card-container"></div>
-    <div class="card" style="display: none">
-      <div class="card-content">
-        <h2>TV Show Title</h2>
-        <img src="" alt="TV Show Poster" />
-        <ul>
-          <li>Bullet Point 1</li>
-          <li>Bullet Point 2</li>
-          <li>Bullet Point 3</li>
-        </ul>
+
+    <template id="card-template">
+      <div class="card">
+        <div class="card-content">
+          <h2>Movie Title</h2>
+          <img src="" alt="Movie Poster" />
+          <ul class="movie-info">
+            <li><strong>Year:</strong> <span class="movie-year"></span></li>
+            <li><strong>Genre:</strong> <span class="movie-genre"></span></li>
+            <li><strong>Rating:</strong> <span class="movie-rating"></span></li>
+            <li><strong>Director:</strong> <span class="movie-director"></span></li>
+          </ul>
+          <div class="comments">
+            <h4>Comments</h4>
+            <ul class="comment-list"></ul>
+            <textarea class="comment-input" placeholder="Add a comment..."></textarea>
+            <button class="comment-btn">Submit Comment</button>
+          </div>
+        </div>
       </div>
-    </div>
+    </template>
+
+    <section class="add-movie">
+      <h2>Add a New Movie</h2>
+      <input id="newTitle" type="text" placeholder="Title">
+      <input id="newYear" type="number" placeholder="Year">
+      <input id="newGenre" type="text" placeholder="Genre">
+      <input id="newRating" type="number" placeholder="Rating" min="1" max="10">
+      <input id="newImage" type="text" placeholder="Poster URL (optional)">
+      <button onclick="addMovie()">Add Movie</button>
+    </section>
+
     <div class="footer">
       <button onclick="quoteAlert();">Get A Quote!</button>
-      <button onclick="removeLastCard();">Remove A Card!</button>
+      <button onclick="removeLastCard();">Remove A Movie!</button>
     </div>
   </body>
 </html>

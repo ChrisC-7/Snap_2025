@@ -1,0 +1,3406 @@
+[
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "name": "Y\u00f4jinb\u00f4",
+      "rating": 8.2,
+      "year": 1961,
+      "genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+      "name": "Witness for the Prosecution",
+      "rating": 8.4,
+      "year": 1958,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Billy Wilder"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Whiplash",
+      "rating": 8.5,
+      "year": 2014,
+      "genre": [
+        "Drama",
+        "Music"
+      ],
+      "directors": [
+        "Damien Chazelle"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+      "name": "Warrior",
+      "rating": 8.2,
+      "year": 2011,
+      "genre": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "directors": [
+        "Gavin O&apos;Connor"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg",
+      "name": "WALL\u00b7E",
+      "rating": 8.4,
+      "year": 2008,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "directors": [
+        "Andrew Stanton"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "Vertigo",
+      "rating": 8.3,
+      "year": 1958,
+      "genre": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+      "name": "V for Vendetta",
+      "rating": 8.2,
+      "year": 2006,
+      "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "James McTeigue"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg",
+      "name": "Up",
+      "rating": 8.3,
+      "year": 2009,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Pete Docter",
+        "Bob Peterson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Unforgiven",
+      "rating": 8.2,
+      "year": 1992,
+      "genre": [
+        "Drama",
+        "Western"
+      ],
+      "directors": [
+        "Clint Eastwood"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "T\u00f4ky\u00f4 monogatari",
+      "rating": 8.2,
+      "year": 1972,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Yasujir\u00f4 Ozu"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Trainspotting",
+      "rating": 8.1,
+      "year": 1996,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+      "name": "Toy Story 3",
+      "rating": 8.3,
+      "year": 2010,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Lee Unkrich"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+      "name": "Toy Story",
+      "rating": 8.3,
+      "year": 1995,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "John Lasseter"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "name": "Top Gun: Maverick",
+      "rating": 8.4,
+      "year": 2022,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Joseph Kosinski"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Tonari no Totoro",
+      "rating": 8.1,
+      "year": 1990,
+      "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "To Kill a Mockingbird",
+      "rating": 8.3,
+      "year": 1963,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Mulligan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+      "name": "To Be or Not to Be",
+      "rating": 8.2,
+      "year": 1942,
+      "genre": [
+        "Comedy",
+        "Romance",
+        "War"
+      ],
+      "directors": [
+        "Ernst Lubitsch"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg",
+      "name": "Three Billboards Outside Ebbing, Missouri",
+      "rating": 8.1,
+      "year": 2017,
+      "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin McDonagh"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+      "name": "There Will Be Blood",
+      "rating": 8.2,
+      "year": 2008,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+      "name": "The Wolf of Wall Street",
+      "rating": 8.2,
+      "year": 2013,
+      "genre": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+      "name": "The Wizard of Oz",
+      "rating": 8.1,
+      "year": 1939,
+      "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "Victor Fleming",
+        "George Cukor",
+        "Mervyn LeRoy"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "The Usual Suspects",
+      "rating": 8.5,
+      "year": 1995,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Bryan Singer"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+      "name": "The Truman Show",
+      "rating": 8.2,
+      "year": 1998,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Weir"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+      "name": "The Treasure of the Sierra Madre",
+      "rating": 8.2,
+      "year": 1948,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "directors": [
+        "John Huston"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The Third Man",
+      "rating": 8.1,
+      "year": 1949,
+      "genre": [
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Carol Reed"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "name": "The Thing",
+      "rating": 8.2,
+      "year": 1982,
+      "genre": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "John Carpenter"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The Terminator",
+      "rating": 8.1,
+      "year": 1984,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "James Cameron"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "The Sting",
+      "rating": 8.3,
+      "year": 1973,
+      "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "George Roy Hill"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "The Sound of Music",
+      "rating": 8.1,
+      "year": 1965,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "directors": [
+        "Robert Wise"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+      "name": "The Sixth Sense",
+      "rating": 8.2,
+      "year": 1999,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "M. Night Shyamalan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "The Silence of the Lambs",
+      "rating": 8.6,
+      "year": 1991,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Jonathan Demme"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "The Shining",
+      "rating": 8.4,
+      "year": 1980,
+      "genre": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "The Shawshank Redemption",
+      "rating": 9.3,
+      "year": 1994,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Frank Darabont"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+      "name": "The Prestige",
+      "rating": 8.5,
+      "year": 2006,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "The Pianist",
+      "rating": 8.5,
+      "year": 2003,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "The Matrix",
+      "rating": 8.7,
+      "year": 1999,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "The Lord of the Rings: The Two Towers",
+      "rating": 8.8,
+      "year": 2002,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The Lord of the Rings: The Return of the King",
+      "rating": 9.0,
+      "year": 2003,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": 8.8,
+      "year": 2001,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+      "name": "The Lion King",
+      "rating": 8.5,
+      "year": 1994,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "The Kid",
+      "rating": 8.3,
+      "year": 1921,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+      "name": "The Iron Giant",
+      "rating": 8.1,
+      "year": 1999,
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Brad Bird"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+      "name": "The Incredibles",
+      "rating": 8.0,
+      "year": 2004,
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Brad Bird"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+      "name": "The Help",
+      "rating": 8.1,
+      "year": 2011,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Tate Taylor"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+      "name": "The Green Mile",
+      "rating": 8.6,
+      "year": 1999,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Frank Darabont"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+      "name": "The Great Escape",
+      "rating": 8.2,
+      "year": 1963,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "John Sturges"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "The Great Dictator",
+      "rating": 8.4,
+      "year": 1941,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "The Grapes of Wrath",
+      "rating": 8.1,
+      "year": 1940,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "John Ford"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+      "name": "The Grand Budapest Hotel",
+      "rating": 8.1,
+      "year": 2014,
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "name": "The Gold Rush",
+      "rating": 8.2,
+      "year": 1925,
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The Godfather Part II",
+      "rating": 9.0,
+      "year": 1974,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The Godfather",
+      "rating": 9.2,
+      "year": 1972,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The General",
+      "rating": 8.2,
+      "year": 1927,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Clyde Bruckman",
+        "Buster Keaton"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "name": "The Father",
+      "rating": 8.2,
+      "year": 2021,
+      "genre": [
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Florian Zeller"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "The Exorcist",
+      "rating": 8.1,
+      "year": 1973,
+      "genre": [
+        "Horror"
+      ],
+      "directors": [
+        "William Friedkin"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The Empire Strikes Back",
+      "rating": 8.7,
+      "year": 1980,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Irvin Kershner"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "The Elephant Man",
+      "rating": 8.2,
+      "year": 1980,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "David Lynch"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+      "name": "The Departed",
+      "rating": 8.5,
+      "year": 2006,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "The Deer Hunter",
+      "rating": 8.1,
+      "year": 1979,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Michael Cimino"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+      "name": "The Dark Knight Rises",
+      "rating": 8.4,
+      "year": 2012,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "name": "The Dark Knight",
+      "rating": 9.0,
+      "year": 2008,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+      "name": "The Bridge on the River Kwai",
+      "rating": 8.2,
+      "year": 1957,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "David Lean"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_.jpg",
+      "name": "The Big Lebowski",
+      "rating": 8.1,
+      "year": 1998,
+      "genre": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "The Best Years of Our Lives",
+      "rating": 8.1,
+      "year": 1947,
+      "genre": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "directors": [
+        "William Wyler"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+      "name": "The Apartment",
+      "rating": 8.3,
+      "year": 1960,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Billy Wilder"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Terminator 2: Judgment Day",
+      "rating": 8.6,
+      "year": 1991,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "James Cameron"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "Tengoku to jigoku",
+      "rating": 8.4,
+      "year": 1963,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Taxi Driver",
+      "rating": 8.2,
+      "year": 1976,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Taare Zameen Par",
+      "rating": 8.4,
+      "year": 2007,
+      "genre": [
+        "Drama",
+        "Family"
+      ],
+      "directors": [
+        "Aamir Khan",
+        "Amole Gupte"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+      "name": "Sunset Blvd.",
+      "rating": 8.4,
+      "year": 1950,
+      "genre": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "directors": [
+        "Billy Wilder"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "name": "Star Wars: Episode VI - Return of the Jedi",
+      "rating": 8.3,
+      "year": 1983,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Richard Marquand"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
+      "name": "Star Wars",
+      "rating": 8.6,
+      "year": 1977,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "George Lucas"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Stand by Me",
+      "rating": 8.1,
+      "year": 1986,
+      "genre": [
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Rob Reiner"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+      "name": "Spotlight",
+      "rating": 8.1,
+      "year": 2015,
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Tom McCarthy"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+      "name": "Spider-Man: No Way Home",
+      "rating": 8.3,
+      "year": 2021,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Jon Watts"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "rating": 8.4,
+      "year": 2018,
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Bob Persichetti",
+        "Peter Ramsey",
+        "Rodney Rothman"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Some Like It Hot",
+      "rating": 8.2,
+      "year": 1959,
+      "genre": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "directors": [
+        "Billy Wilder"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+      "name": "Snatch",
+      "rating": 8.2,
+      "year": 2001,
+      "genre": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Guy Ritchie"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Smultronst\u00e4llet",
+      "rating": 8.1,
+      "year": 1959,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+      "name": "Singin&apos; in the Rain",
+      "rating": 8.3,
+      "year": 1952,
+      "genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "directors": [
+        "Stanley Donen",
+        "Gene Kelly"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Shutter Island",
+      "rating": 8.2,
+      "year": 2010,
+      "genre": [
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+      "name": "Shichinin no samurai",
+      "rating": 8.6,
+      "year": 1956,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+      "name": "Sherlock Jr.",
+      "rating": 8.2,
+      "year": 1924,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Buster Keaton"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+      "name": "Seppuku",
+      "rating": 8.6,
+      "year": 1964,
+      "genre": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Masaki Kobayashi"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Sen to Chihiro no kamikakushi",
+      "rating": 8.6,
+      "year": 2003,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Se7en",
+      "rating": 8.6,
+      "year": 1995,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Schindler&apos;s List",
+      "rating": 9.0,
+      "year": 1994,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Scarface",
+      "rating": 8.3,
+      "year": 1983,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Brian De Palma"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+      "name": "Saving Private Ryan",
+      "rating": 8.6,
+      "year": 1998,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "name": "Salinui chueok",
+      "rating": 8.1,
+      "year": 2003,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Bong Joon Ho"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Rush",
+      "rating": 8.1,
+      "year": 2013,
+      "genre": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "Ron Howard"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+      "name": "Room",
+      "rating": 8.1,
+      "year": 2016,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Lenny Abrahamson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Rocky",
+      "rating": 8.1,
+      "year": 1976,
+      "genre": [
+        "Drama",
+        "Sport"
+      ],
+      "directors": [
+        "John G. Avildsen"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Reservoir Dogs",
+      "rating": 8.3,
+      "year": 1992,
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Requiem for a Dream",
+      "rating": 8.3,
+      "year": 2000,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+      "name": "Relatos salvajes",
+      "rating": 8.1,
+      "year": 2014,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Dami\u00e1n Szifron"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "Rebecca",
+      "rating": 8.1,
+      "year": 1940,
+      "genre": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Rear Window",
+      "rating": 8.5,
+      "year": 1954,
+      "genre": [
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+      "name": "Ratatouille",
+      "rating": 8.1,
+      "year": 2007,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Brad Bird",
+        "Jan Pinkava"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_.jpg",
+      "name": "Rash\u00f4mon",
+      "rating": 8.2,
+      "year": 1951,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Ran",
+      "rating": 8.2,
+      "year": 1985,
+      "genre": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+      "name": "Raiders of the Lost Ark",
+      "rating": 8.4,
+      "year": 1981,
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+      "name": "Raging Bull",
+      "rating": 8.2,
+      "year": 1980,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Pulp Fiction",
+      "rating": 8.9,
+      "year": 1994,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Psycho",
+      "rating": 8.5,
+      "year": 1960,
+      "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+      "name": "Prisoners",
+      "rating": 8.1,
+      "year": 2013,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Platoon",
+      "rating": 8.1,
+      "year": 1987,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Oliver Stone"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "rating": 8.1,
+      "year": 2003,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Gore Verbinski"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Persona",
+      "rating": 8.1,
+      "year": 1967,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Per qualche dollaro in pi\u00f9",
+      "rating": 8.2,
+      "year": 1967,
+      "genre": [
+        "Western"
+      ],
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+      "name": "Paths of Glory",
+      "rating": 8.4,
+      "year": 1957,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+      "name": "Pather Panchali",
+      "rating": 8.3,
+      "year": 1955,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Satyajit Ray"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "One Flew Over the Cuckoo&apos;s Nest",
+      "rating": 8.7,
+      "year": 1975,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Milos Forman"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Once Upon a Time in America",
+      "rating": 8.3,
+      "year": 1984,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "On the Waterfront",
+      "rating": 8.1,
+      "year": 1954,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Elia Kazan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+      "name": "Oldeuboi",
+      "rating": 8.4,
+      "year": 2003,
+      "genre": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
+      "name": "Nuovo Cinema Paradiso",
+      "rating": 8.5,
+      "year": 1990,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Giuseppe Tornatore"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "North by Northwest",
+      "rating": 8.3,
+      "year": 1959,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+      "name": "No Country for Old Men",
+      "rating": 8.2,
+      "year": 2007,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Ethan Coen",
+        "Joel Coen"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+      "name": "Network",
+      "rating": 8.1,
+      "year": 1976,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+      "name": "Mr. Smith Goes to Washington",
+      "rating": 8.1,
+      "year": 1939,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Frank Capra"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Monty Python and the Holy Grail",
+      "rating": 8.2,
+      "year": 1975,
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Terry Gilliam",
+        "Terry Jones"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+      "name": "Monsters, Inc.",
+      "rating": 8.1,
+      "year": 2001,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Pete Docter",
+        "David Silverman",
+        "Lee Unkrich"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg",
+      "name": "Mononoke-hime",
+      "rating": 8.4,
+      "year": 1997,
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Modern Times",
+      "rating": 8.5,
+      "year": 1936,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+      "name": "Million Dollar Baby",
+      "rating": 8.1,
+      "year": 2005,
+      "genre": [
+        "Drama",
+        "Sport"
+      ],
+      "directors": [
+        "Clint Eastwood"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Metropolis",
+      "rating": 8.3,
+      "year": 1927,
+      "genre": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Fritz Lang"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Memento",
+      "rating": 8.4,
+      "year": 2001,
+      "genre": [
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Mary and Max.",
+      "rating": 8.1,
+      "year": 2010,
+      "genre": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Adam Elliot"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Mad Max: Fury Road",
+      "rating": 8.1,
+      "year": 2015,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "George Miller"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+      "name": "M - Eine Stadt sucht einen M\u00f6rder",
+      "rating": 8.3,
+      "year": 1931,
+      "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Fritz Lang"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "L\u00e9on",
+      "rating": 8.5,
+      "year": 1994,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Luc Besson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "Logan",
+      "rating": 8.1,
+      "year": 2017,
+      "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "James Mangold"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+      "name": "Lock, Stock and Two Smoking Barrels",
+      "rating": 8.2,
+      "year": 1998,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Guy Ritchie"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Life of Brian",
+      "rating": 8.0,
+      "year": 1979,
+      "genre": [
+        "Comedy"
+      ],
+      "directors": [
+        "Terry Jones"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Les quatre cents coups",
+      "rating": 8.1,
+      "year": 1959,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Fran\u00e7ois Truffaut"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "name": "Le salaire de la peur",
+      "rating": 8.2,
+      "year": 1955,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Henri-Georges Clouzot"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+      "name": "Le fabuleux destin d&apos;Am\u00e9lie Poulain",
+      "rating": 8.3,
+      "year": 2002,
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+      "name": "Lawrence of Arabia",
+      "rating": 8.3,
+      "year": 1962,
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "David Lean"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Ladri di biciclette",
+      "rating": 8.3,
+      "year": 1949,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "La vita \u00e8 bella",
+      "rating": 8.6,
+      "year": 1997,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Roberto Benigni"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "La passion de Jeanne d&apos;Arc",
+      "rating": 8.2,
+      "year": 1928,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Carl Theodor Dreyer"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "La haine",
+      "rating": 8.1,
+      "year": 1996,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Mathieu Kassovitz"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "La battaglia di Algeri",
+      "rating": 8.1,
+      "year": 1967,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Gillo Pontecorvo"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "L.A. Confidential",
+      "rating": 8.2,
+      "year": 1997,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Curtis Hanson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "name": "Klaus",
+      "rating": 8.1,
+      "year": 2019,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Sergio Pablos",
+        "Carlos Mart\u00ednez L\u00f3pez"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_.jpg",
+      "name": "Kimi no Na wa.",
+      "rating": 8.4,
+      "year": 2017,
+      "genre": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Makoto Shinkai"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Kill Bill: Vol. 1",
+      "rating": 8.2,
+      "year": 2003,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+      "name": "Jurassic Park",
+      "rating": 8.2,
+      "year": 1993,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+      "name": "Judgment at Nuremberg",
+      "rating": 8.3,
+      "year": 1961,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Stanley Kramer"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "name": "Joker",
+      "rating": 8.4,
+      "year": 2019,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Todd Phillips"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Jodaeiye Nader az Simin",
+      "rating": 8.3,
+      "year": 2011,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Asghar Farhadi"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "name": "Jaws",
+      "rating": 8.1,
+      "year": 1975,
+      "genre": [
+        "Adventure",
+        "Thriller"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
+      "name": "Jai Bhim",
+      "rating": 8.9,
+      "year": 2021,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "T.J. Gnanavel"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+      "name": "Jagten",
+      "rating": 8.3,
+      "year": 2013,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Thomas Vinterberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+      "name": "It&apos;s a Wonderful Life",
+      "rating": 8.6,
+      "year": 1947,
+      "genre": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "Frank Capra"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "It Happened One Night",
+      "rating": 8.1,
+      "year": 1934,
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Frank Capra"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+      "name": "Intouchables",
+      "rating": 8.5,
+      "year": 2011,
+      "genre": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Olivier Nakache",
+        "\u00c9ric Toledano"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+      "name": "Into the Wild",
+      "rating": 8.1,
+      "year": 2007,
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "Sean Penn"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Interstellar",
+      "rating": 8.6,
+      "year": 2014,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+      "name": "Inside Out",
+      "rating": 8.2,
+      "year": 2015,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Pete Docter",
+        "Ronnie Del Carmen"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+      "name": "Inglourious Basterds",
+      "rating": 8.3,
+      "year": 2009,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+      "name": "Indiana Jones and the Last Crusade",
+      "rating": 8.2,
+      "year": 1989,
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "name": "Inception",
+      "rating": 8.8,
+      "year": 2010,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Incendies",
+      "rating": 8.3,
+      "year": 2011,
+      "genre": [
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "In the Name of the Father",
+      "rating": 8.1,
+      "year": 1994,
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Jim Sheridan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Il buono, il brutto, il cattivo",
+      "rating": 8.8,
+      "year": 1967,
+      "genre": [
+        "Adventure",
+        "Western"
+      ],
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTcyYmQ2NDMtNWI1NS00MTNiLTk0NDctNWMwNWExYTNlYzk3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+      "name": "Ikiru",
+      "rating": 8.3,
+      "year": 1956,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzU3OTI1MjItYTJiZC00NDI0LWFlNGYtOTQ1OTVhNDgwM2U3XkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_.jpg",
+      "name": "Idi i smotri",
+      "rating": 8.4,
+      "year": 1985,
+      "genre": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "directors": [
+        "Elem Klimov"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+      "name": "How to Train Your Dragon",
+      "rating": 8.1,
+      "year": 2010,
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Dean DeBlois",
+        "Chris Sanders"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Hotel Rwanda",
+      "rating": 8.1,
+      "year": 2005,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Terry George"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "name": "Hotaru no haka",
+      "rating": 8.5,
+      "year": 1989,
+      "genre": [
+        "Animation",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Isao Takahata"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Heat",
+      "rating": 8.3,
+      "year": 1995,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Michael Mann"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_.jpg",
+      "name": "Hauru no ugoku shiro",
+      "rating": 8.2,
+      "year": 2005,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "name": "Harry Potter and the Deathly Hallows - Part 2",
+      "rating": 8.1,
+      "year": 2011,
+      "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "David Yates"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+      "name": "Hamilton",
+      "rating": 8.4,
+      "year": 2020,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Thomas Kail"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+      "name": "Hacksaw Ridge",
+      "rating": 8.1,
+      "year": 2016,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Mel Gibson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Hachi: A Dog&apos;s Tale",
+      "rating": 8.1,
+      "year": 2010,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "directors": [
+        "Lasse Hallstr\u00f6m"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Groundhog Day",
+      "rating": 8.1,
+      "year": 1993,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Harold Ramis"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+      "name": "Green Book",
+      "rating": 8.2,
+      "year": 2018,
+      "genre": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Farrelly"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+      "name": "Gran Torino",
+      "rating": 8.1,
+      "year": 2009,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Clint Eastwood"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Goodfellas",
+      "rating": 8.7,
+      "year": 1990,
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Good Will Hunting",
+      "rating": 8.3,
+      "year": 1998,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Gus Van Sant"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Gone with the Wind",
+      "rating": 8.2,
+      "year": 1940,
+      "genre": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "directors": [
+        "Victor Fleming",
+        "George Cukor",
+        "Sam Wood"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+      "name": "Gone Girl",
+      "rating": 8.1,
+      "year": 2014,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Gladiator",
+      "rating": 8.5,
+      "year": 2000,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "name": "Gisaengchung",
+      "rating": 8.5,
+      "year": 2019,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Bong Joon Ho"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOGVmZGU2M2EtZTVjYy00OWU2LWI0YjEtZjQ4YjNmODhmMzhkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+      "name": "Gandhi",
+      "rating": 8.1,
+      "year": 1983,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Attenborough"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Full Metal Jacket",
+      "rating": 8.3,
+      "year": 1987,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Forrest Gump",
+      "rating": 8.8,
+      "year": 1994,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg",
+      "name": "Ford v Ferrari",
+      "rating": 8.1,
+      "year": 2019,
+      "genre": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "James Mangold"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Finding Nemo",
+      "rating": 8.2,
+      "year": 2003,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Andrew Stanton",
+        "Lee Unkrich"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Fight Club",
+      "rating": 8.8,
+      "year": 1999,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Fargo",
+      "rating": 8.1,
+      "year": 1996,
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+      "name": "Everything Everywhere All at Once",
+      "rating": 8.1,
+      "year": 2022,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Dan Kwan",
+        "Daniel Scheinert"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "rating": 8.3,
+      "year": 2004,
+      "genre": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Michel Gondry"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "El secreto de sus ojos",
+      "rating": 8.2,
+      "year": 2010,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "directors": [
+        "Juan Jos\u00e9 Campanella"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "El laberinto del fauno",
+      "rating": 8.2,
+      "year": 2007,
+      "genre": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ],
+      "directors": [
+        "Guillermo del Toro"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "rating": 8.4,
+      "year": 1964,
+      "genre": [
+        "Comedy",
+        "War"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+      "name": "Double Indemnity",
+      "rating": 8.3,
+      "year": 1944,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "directors": [
+        "Billy Wilder"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+      "name": "Django Unchained",
+      "rating": 8.4,
+      "year": 2012,
+      "genre": [
+        "Drama",
+        "Western"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Die Hard",
+      "rating": 8.2,
+      "year": 1988,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "John McTiernan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "Dial M for Murder",
+      "rating": 8.2,
+      "year": 1954,
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Det sjunde inseglet",
+      "rating": 8.1,
+      "year": 1958,
+      "genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "Dersu Uzala",
+      "rating": 8.2,
+      "year": 1977,
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+      "name": "Der Untergang",
+      "rating": 8.2,
+      "year": 2005,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Oliver Hirschbiegel"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Dead Poets Society",
+      "rating": 8.1,
+      "year": 1989,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Weir"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Das Leben der Anderen",
+      "rating": 8.4,
+      "year": 2007,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Florian Henckel von Donnersmarck"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+      "name": "Das Boot",
+      "rating": 8.4,
+      "year": 1982,
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Wolfgang Petersen"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+      "name": "Dangal",
+      "rating": 8.3,
+      "year": 2016,
+      "genre": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "Nitesh Tiwari"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Cool Hand Luke",
+      "rating": 8.1,
+      "year": 1967,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Stuart Rosenberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
+      "name": "Coco",
+      "rating": 8.4,
+      "year": 2017,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Lee Unkrich",
+        "Adrian Molina"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYzE1NjdhYjAtNzU5NS00ZjhiLWE4YjUtOGVjMjEzZjJmMDdlXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+      "name": "City Lights",
+      "rating": 8.5,
+      "year": 1931,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Citizen Kane",
+      "rating": 8.3,
+      "year": 1941,
+      "genre": [
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Orson Welles"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Cidade de Deus",
+      "rating": 8.6,
+      "year": 2004,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Fernando Meirelles",
+        "K\u00e1tia Lund"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Chinatown",
+      "rating": 8.2,
+      "year": 1974,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+      "name": "Catch Me If You Can",
+      "rating": 8.1,
+      "year": 2002,
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "name": "Casino",
+      "rating": 8.2,
+      "year": 1995,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+      "name": "Casablanca",
+      "rating": 8.5,
+      "year": 1943,
+      "genre": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "directors": [
+        "Michael Curtiz"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+      "name": "Capharna\u00fcm",
+      "rating": 8.4,
+      "year": 2018,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Nadine Labaki"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "C&apos;era una volta il West",
+      "rating": 8.5,
+      "year": 1969,
+      "genre": [
+        "Western"
+      ],
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Braveheart",
+      "rating": 8.4,
+      "year": 1995,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Mel Gibson"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Blade Runner",
+      "rating": 8.1,
+      "year": 1982,
+      "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "Ben-Hur",
+      "rating": 8.1,
+      "year": 1959,
+      "genre": [
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "William Wyler"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+      "name": "Before Sunset",
+      "rating": 8.1,
+      "year": 2004,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Before Sunrise",
+      "rating": 8.1,
+      "year": 1995,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Batman Begins",
+      "rating": 8.2,
+      "year": 2005,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Barry Lyndon",
+      "rating": 8.1,
+      "year": 1975,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "Back to the Future",
+      "rating": 8.5,
+      "year": 1985,
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Bacheha-Ye aseman",
+      "rating": 8.2,
+      "year": 1999,
+      "genre": [
+        "Drama",
+        "Family",
+        "Sport"
+      ],
+      "directors": [
+        "Majid Majidi"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "Babam ve Oglum",
+      "rating": 8.2,
+      "year": 2005,
+      "genre": [
+        "Drama",
+        "Family"
+      ],
+      "directors": [
+        "\u00c7agan Irmak"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+      "name": "Avengers: Infinity War",
+      "rating": 8.4,
+      "year": 2018,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+      "name": "Avengers: Endgame",
+      "rating": 8.4,
+      "year": 2019,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Apocalypse Now",
+      "rating": 8.5,
+      "year": 1979,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Amores perros",
+      "rating": 8.1,
+      "year": 2001,
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Alejandro G. I\u00f1\u00e1rritu"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+      "name": "American History X",
+      "rating": 8.5,
+      "year": 1998,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Tony Kaye"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "American Beauty",
+      "rating": 8.4,
+      "year": 1999,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Sam Mendes"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+      "name": "Amadeus",
+      "rating": 8.4,
+      "year": 1984,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "directors": [
+        "Milos Forman"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+      "name": "All About Eve",
+      "rating": 8.2,
+      "year": 1950,
+      "genre": [
+        "Drama"
+      ],
+      "directors": [
+        "Joseph L. Mankiewicz"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "Aliens",
+      "rating": 8.4,
+      "year": 1986,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "James Cameron"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "name": "Alien",
+      "rating": 8.5,
+      "year": 1979,
+      "genre": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+      "name": "Aladdin",
+      "rating": 8.0,
+      "year": 1992,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Ron Clements",
+        "John Musker"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Ah-ga-ssi",
+      "rating": 8.1,
+      "year": 2016,
+      "genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+      "name": "A Clockwork Orange",
+      "rating": 8.3,
+      "year": 1972,
+      "genre": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "name": "A Beautiful Mind",
+      "rating": 8.2,
+      "year": 2002,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "directors": [
+        "Ron Howard"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "name": "3 Idiots",
+      "rating": 8.4,
+      "year": 2009,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Rajkumar Hirani"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "2001: A Space Odyssey",
+      "rating": 8.3,
+      "year": 1970,
+      "genre": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+      "name": "1917",
+      "rating": 8.2,
+      "year": 2020,
+      "genre": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Sam Mendes"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+      "name": "12 Years a Slave",
+      "rating": 8.1,
+      "year": 2013,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Steve McQueen"
+      ]
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+      "name": "12 Angry Men",
+      "rating": 9.0,
+      "year": 1957,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ]
+    }
+  ]
